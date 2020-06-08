@@ -1,16 +1,13 @@
 # Biraj-Borgohain
 #Education
-Current Position
+Current Position : Research associate (RA) in Earth Sciences Department, Indian Institute of Technology, Bombay.
 
-#Research associate (RA) in Earth Sciences Department, Indian Institute of Technology, Bombay.
-
-
-Area of specialization
-Detrital zircon and apatite fission track dating, Optically Stimulated Luminescence dating of sediments, topographic analysis, hydrological modeling, and field work. 
+Area of specialization:  Detrital zircon and apatite fission track dating, Optically Stimulated Luminescence dating of sediments, topographic analysis, hydrological modeling, and field work. 
 
 
 Research interest
 I am fascinated by investigating different aspects of mountain building processes over a range of time scale from hundreds to several millions of years and over a range of length scale from ten to several kilometres.  I am especially interested in refining and developing numerical models that use multi-thermochronometric systems and topographic data to study the feedback between the surface and tectonic processes.  
+
 Education
 Degree	Year	Subject	University/Institute
 PhD.	2020	Thermochronology and geomorphology	Indian Institute of Technology, Bombay, Mumbai, India (IITB)
@@ -20,6 +17,7 @@ B.Sc.	2008	Geology	Gauhati University, Assam, India.
 
 Ph.D thesis title: Denudation history of the Siang valley, northeastern Himalaya: a detrital thermochronological perspective.
 Guide Name: Prof. George Mathew,   Award on 16th May 2020.
+
 Publications:
 •	Salvi, D., Mathew, G., Kohn, B., Pande, K., Borgohain, B., 2020. Thermochronological insights into the thermotectonic evolution of Mishmi hills across the Dibang Valley, NE Himalayan Syntaxis. doi:10.1016/j.jseaes.2019.104158, Journal of Asian Earth Science, Impact factor- 2.762.
 •	Borgohain, B., Mathew, G., Chauhan, N., Jain, V.,  Singhvi, A., 2020.  Evidence of episodically accelerated denudation on the Namche Barwa massif by megafloods, Quaternary Science Reviews, Impact factor- 4.641. (under 3rd round of review).
