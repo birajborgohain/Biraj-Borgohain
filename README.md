@@ -1,9 +1,14 @@
 # Biraj-Borgohain
 #Education
 Current Position
-Research associate (RA) in Earth Sciences Department, Indian Institute of Technology, Bombay.
+
+#Research associate (RA) in Earth Sciences Department, Indian Institute of Technology, Bombay.
+
+
 Area of specialization
 Detrital zircon and apatite fission track dating, Optically Stimulated Luminescence dating of sediments, topographic analysis, hydrological modeling, and field work. 
+
+
 Research interest
 I am fascinated by investigating different aspects of mountain building processes over a range of time scale from hundreds to several millions of years and over a range of length scale from ten to several kilometres.  I am especially interested in refining and developing numerical models that use multi-thermochronometric systems and topographic data to study the feedback between the surface and tectonic processes.  
 Education
